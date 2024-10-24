@@ -165,3 +165,15 @@ it can be implicit or explicit
 type of typecasting :
   1. Widening : to convert lower datatype to higher datatype    
 
+  eg: char (1 byte) --> int (4 byte)
+
+  there is no data loss
+
+  2. Narrowing : to convert higher datatype to lower datatype
+
+  eg: double(8 byte )--> int(4 byte)
+
+  there is loss of data
+
+Take input in c++:
+  --> cin & cin.get()

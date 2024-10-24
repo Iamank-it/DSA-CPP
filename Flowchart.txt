@@ -1,0 +1,58 @@
+Flowchart: graphical way of representing a problem 
+    Pseudocode: general way of representing a code 
+
+    component of Flowchart:
+        -Start/end
+        -input/output
+        -process
+        -condition
+        -Flow
+        
+    q.draw a flowchart to print sum of two number 
+    --> read a and b
+    --> sum=a+b
+    --> print sum
+
+    q.draw a flowchart to find avg of two number
+    --> read a and b
+    --> avg=(a+b)/2
+    --> print avg
+
+    q.draw a flowchart to find simple interest
+    --> read p,r,t
+    --> si=(p*r*t)/100
+    --> print si
+
+    q.draw a flowchart to find greater of two number 
+    --> read a,b
+    --> if(a>b) print a is greater 
+    --> else print b is greater 
+
+    q.draw a flowchart to find greater of three number 
+    --> read a ,b,c 
+    --> if (a>b & a>c) print a is greater 
+    --> else if (b>a & b>c) print b is greater 
+    --> else if (c>a & c>b) print c is greater 
+
+    q.draw a flowchart to find weather a number is odd or even
+    --> read n
+    --> if(n%2==0) print number is even
+    --> else print number is odd 
+
+    q.draw a flowchart weather a number is positive negetive or 0
+    --> read n
+    --> if(n<0) print number is negetive 
+    --> else if(n>0) print number is positive 
+    --> else print number is zero 
+
+    q.draw a flowchart to check weather a triangle given is valid or not
+
+Loop: repeat a block until condition is false 
+
+    q.draw a flowchart to print hello carry 5 times
+    q.draw a flowchart to print number from 1 to 10 
+    q.draw a flowchart to print all even number from 1-100
+    q.draw a flowchart to print all odd number from 1-100
+    q.draw a flowchart to print sum of numbers from 1 to n
+    q.draw a flowchart to find factorial of n
+    q.draw a flowchart to find weather a number is prime number or not
