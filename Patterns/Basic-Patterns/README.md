@@ -35,7 +35,7 @@ basic pattern:
   6. 
     1 2 3
     2 3 4
-    4 5 6
+    3 4 5
 
   7. 
     A A A
@@ -55,7 +55,7 @@ basic pattern:
   10. 
     A B C
     B C D 
-    D E F
+    C D E
   
   11. 
     A
