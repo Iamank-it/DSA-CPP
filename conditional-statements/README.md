@@ -1,9 +1,4 @@
 conditional statement :
-    if
-    if-else
-    if-else if-else
-    nested if
-    
     Q1 .wap to identify weather input character is lowercase or upercase or numeric
     
     Conditional Statements :
@@ -63,9 +58,11 @@ conditional statement :
         Q8.wap to find gratest among 5 numbers  
 
         Q9. WAP to input a number and check it is positive or negative.
+
         Q10. WAP to input the marks of three subject (Out of 100) and calculate its percentage,
         total marks,total distinction in subjects and display fail if he/she gets marks less
         than 30 in any one of the subjects.
+
         Q11. WAP to input three numbers and find the greatest
             (i) By using nested if statement
             (ii) By using Ternary Operator
