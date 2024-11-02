@@ -17,10 +17,3 @@ by using switch statement.
 Q5. WAP to implement relational operator.(>,<,<=,=>,==,!=)
 Q6. WAP to implement bitwise operators.(&,|,^,~)
 Q7. WAP to implement shift operators. (<<,>>)
-Q8. WAP to input a number and check it is positive or negative.
-Q9. WAP to input the marks of three subject (Out of 100) and calculate its percentage,
-total marks,total distinction in subjects and display fail if he/she gets marks less
-than 30 in any one of the subjects.
-Q10. WAP to input three numbers and find the greatest
-    (i) By using nested if statement
-    (ii) By using Ternary Operator
