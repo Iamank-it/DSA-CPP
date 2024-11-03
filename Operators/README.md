@@ -13,7 +13,7 @@ Q2. WAP to input principal amount, rate and time. Calculate its simple interest 
 compound interest.
 Q3. WAP to input the radius of any circle and find its area and perimeter.
 Q4. WAP to input two numbers and perform addition, substraction and multiplication
-by using switch statement.
-Q5. WAP to implement relational operator.(>,<,<=,=>,==,!=)
-Q6. WAP to implement bitwise operators.(&,|,^,~)
-Q7. WAP to implement shift operators. (<<,>>)
+Q5. by using switch statement.
+Q6. WAP to implement relational operator.(>,<,<=,=>,==,!=)
+Q7. WAP to implement bitwise operators.(&,|,^,~)
+Q8. WAP to implement shift operators. (<<,>>)
