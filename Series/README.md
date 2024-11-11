@@ -1,4 +1,5 @@
 Q.WAP to implement the following series:-
+    
     (1) 1 3 5 7 9 11
     (2) 2 5 10 17 26 37
     (3) 0 6 24 60 120 210
